@@ -21,3 +21,5 @@ A continuación se listan las unidades y los proyectos correspondientes.
 
 -   ### 📁 [Unidad 1: Plataforma de IA para la Calidad del Agua](./Unidad1/)
     -   **Descripción:** Contiene el documento de investigación que propone el diseño conceptual de una plataforma adaptativa para el monitoreo y gestión predictiva de la calidad del agua utilizando IoT e IA.
+-   ### 📁 [Unidad 2: Optimización de rutas de distribución para tiendas utilizando Recocido Simulado](./Unidad2/)
+    -   **Descripción:** Diseño e implementación de una solución computacional para optimizar las rutas de distribución de productos desde los centros de distribución hasta varias sucursales utilizando el algoritmo de Recocido Simulado en Python.
