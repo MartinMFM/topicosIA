@@ -3,63 +3,63 @@ RESULTADOS DE OPTIMIZACIÓN DE RUTAS POR ZONAS
 
 ZONA: Centro de Distribución 1
 Tiendas: 1
-Costo: 0.98
+Costo: 2.16
 Capacidad: 17,757
 Ruta: Centro de Distribución 1 → Tienda 60 → Centro de Distribución 1
 --------------------------------------------------
 ZONA: Centro de Distribución 2
 Tiendas: 18
-Costo: 33.28
+Costo: 60.15
 Capacidad: 232,230
-Ruta: Centro de Distribución 2 → Tienda 34 → Tienda 37 → Tienda 84 → Tienda 87 → Tienda 16 → Tienda 8 → Tienda 17 → Tienda 82 → Tienda 47 → Tienda 90 → Tienda 31 → Tienda 50 → Tienda 35 → Tienda 38 → Tienda 79 → Tienda 10 → Tienda 64 → Tienda 72 → Centro de Distribución 2
+Ruta: Centro de Distribución 2 → Tienda 10 → Tienda 79 → Tienda 72 → Tienda 64 → Tienda 38 → Tienda 34 → Tienda 31 → Tienda 90 → Tienda 82 → Tienda 17 → Tienda 8 → Tienda 47 → Tienda 16 → Tienda 87 → Tienda 50 → Tienda 35 → Tienda 84 → Tienda 37 → Centro de Distribución 2
 --------------------------------------------------
 ZONA: Centro de Distribución 3
 Tiendas: 5
-Costo: 16.77
+Costo: 25.98
 Capacidad: 62,614
-Ruta: Centro de Distribución 3 → Tienda 45 → Tienda 63 → Tienda 40 → Tienda 65 → Tienda 19 → Centro de Distribución 3
+Ruta: Centro de Distribución 3 → Tienda 45 → Tienda 63 → Tienda 40 → Tienda 19 → Tienda 65 → Centro de Distribución 3
 --------------------------------------------------
 ZONA: Centro de Distribución 4
 Tiendas: 7
-Costo: 14.49
+Costo: 27.34
 Capacidad: 83,196
-Ruta: Centro de Distribución 4 → Tienda 12 → Tienda 86 → Tienda 73 → Tienda 24 → Tienda 36 → Tienda 41 → Tienda 27 → Centro de Distribución 4
+Ruta: Centro de Distribución 4 → Tienda 27 → Tienda 73 → Tienda 24 → Tienda 36 → Tienda 41 → Tienda 86 → Tienda 12 → Centro de Distribución 4
 --------------------------------------------------
 ZONA: Centro de Distribución 5
 Tiendas: 10
-Costo: 22.37
+Costo: 41.12
 Capacidad: 138,627
-Ruta: Centro de Distribución 5 → Tienda 69 → Tienda 28 → Tienda 54 → Tienda 51 → Tienda 89 → Tienda 48 → Tienda 18 → Tienda 3 → Tienda 44 → Tienda 59 → Centro de Distribución 5
+Ruta: Centro de Distribución 5 → Tienda 28 → Tienda 69 → Tienda 51 → Tienda 54 → Tienda 89 → Tienda 48 → Tienda 18 → Tienda 44 → Tienda 3 → Tienda 59 → Centro de Distribución 5
 --------------------------------------------------
 ZONA: Centro de Distribución 6
 Tiendas: 2
-Costo: 3.12
+Costo: 7.87
 Capacidad: 31,260
 Ruta: Centro de Distribución 6 → Tienda 7 → Tienda 25 → Centro de Distribución 6
 --------------------------------------------------
 ZONA: Centro de Distribución 7
 Tiendas: 14
-Costo: 27.34
+Costo: 53.76
 Capacidad: 169,321
-Ruta: Centro de Distribución 7 → Tienda 49 → Tienda 26 → Tienda 78 → Tienda 1 → Tienda 5 → Tienda 76 → Tienda 29 → Tienda 80 → Tienda 66 → Tienda 43 → Tienda 68 → Tienda 61 → Tienda 58 → Tienda 22 → Centro de Distribución 7
+Ruta: Centro de Distribución 7 → Tienda 49 → Tienda 26 → Tienda 29 → Tienda 76 → Tienda 1 → Tienda 5 → Tienda 78 → Tienda 22 → Tienda 58 → Tienda 66 → Tienda 68 → Tienda 61 → Tienda 80 → Tienda 43 → Centro de Distribución 7
 --------------------------------------------------
 ZONA: Centro de Distribución 8
 Tiendas: 9
-Costo: 19.29
+Costo: 34.22
 Capacidad: 102,795
-Ruta: Centro de Distribución 8 → Tienda 46 → Tienda 52 → Tienda 9 → Tienda 32 → Tienda 81 → Tienda 30 → Tienda 74 → Tienda 57 → Tienda 20 → Centro de Distribución 8
+Ruta: Centro de Distribución 8 → Tienda 57 → Tienda 20 → Tienda 46 → Tienda 74 → Tienda 81 → Tienda 9 → Tienda 52 → Tienda 32 → Tienda 30 → Centro de Distribución 8
 --------------------------------------------------
 ZONA: Centro de Distribución 9
 Tiendas: 13
-Costo: 23.46
+Costo: 43.99
 Capacidad: 176,976
-Ruta: Centro de Distribución 9 → Tienda 23 → Tienda 71 → Tienda 83 → Tienda 13 → Tienda 70 → Tienda 75 → Tienda 55 → Tienda 11 → Tienda 67 → Tienda 4 → Tienda 53 → Tienda 42 → Tienda 14 → Centro de Distribución 9
+Ruta: Centro de Distribución 9 → Tienda 71 → Tienda 70 → Tienda 13 → Tienda 83 → Tienda 75 → Tienda 55 → Tienda 11 → Tienda 67 → Tienda 53 → Tienda 4 → Tienda 23 → Tienda 42 → Tienda 14 → Centro de Distribución 9
 --------------------------------------------------
 ZONA: Centro de Distribución 10
 Tiendas: 11
-Costo: 21.82
+Costo: 39.00
 Capacidad: 133,181
-Ruta: Centro de Distribución 10 → Tienda 21 → Tienda 33 → Tienda 2 → Tienda 88 → Tienda 39 → Tienda 62 → Tienda 85 → Tienda 6 → Tienda 15 → Tienda 77 → Tienda 56 → Centro de Distribución 10
+Ruta: Centro de Distribución 10 → Tienda 33 → Tienda 88 → Tienda 2 → Tienda 39 → Tienda 21 → Tienda 56 → Tienda 77 → Tienda 85 → Tienda 6 → Tienda 15 → Tienda 62 → Centro de Distribución 10
 --------------------------------------------------
 
-COSTO TOTAL: 182.92
+COSTO TOTAL: 335.59
