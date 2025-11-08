@@ -26,3 +26,5 @@ A continuación se listan las unidades y los proyectos correspondientes.
 - ### 📁 [Unidad 3](./Unidad3/)
   - ### Optimización de Riego con Enjambre de Partículas
     - **Descripción:** Desarrollo de un sistema de optimización basado en Enjambre de Partículas (PSO) para determinar la ubicación estratégica de sensores de humedad en campos agrícolas. El algoritmo optimiza la colocación considerando variables clave como la topografía, el tipo de cultivo y la variabilidad del suelo para encontrar la mejor distribución de los sensores.
+  - ### Algoritmo Genético (AG) para resolver el Problema del Viajante
+    - **Descripción:** Implementación de un Algoritmo Genético para encontrar la ruta óptima que permita a un agente viajero visitar un conjunto dado de ciudades, pasando por cada una de ellas exactamente una vez y regresando finalmente a la ciudad de origen.

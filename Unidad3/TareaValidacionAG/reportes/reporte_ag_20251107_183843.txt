@@ -1,0 +1,10 @@
+REPORTE ALGORITMO GENÉTICO - TSP
+========================================
+Fecha: 07/11/2025 18:38:43
+
+Distancia inicial: 37.2852
+Distancia final:   29.9212
+Mejora obtenida:   19.75%
+
+MEJOR RUTA ENCONTRADA:
+Toledo -> Sevilla -> Guadalajara -> Cuenca -> Valencia -> Barcelona -> Burgos -> Murcia -> Zaragoza -> Zamora -> Madrid -> Toledo
