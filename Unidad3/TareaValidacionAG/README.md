@@ -10,6 +10,8 @@
 - **Integrantes:**
   - Dávila Bejarano Víctor Jesús
   - Flores Medina Martin
+- **Repositorio:**
+  - [GitHub - topicosIA](https://github.com/MartinMFM/topicosIA)
 
 ---
 
