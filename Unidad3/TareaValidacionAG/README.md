@@ -1,5 +1,18 @@
 # Algoritmo Genético para el Problema del Viajante (TSP)
 
+---
+
+### **Información General**
+
+- **Universidad:** Tecnológico Nacional de México, Campus Culiacán
+- **Materia:** Tópicos de Inteligencia Artificial
+- **Profesor:** Mora Félix Zuriel Dathan
+- **Integrantes:**
+  - Dávila Bejarano Víctor Jesús
+  - Flores Medina Martin
+
+---
+
 ## Descripción del Proyecto
 
 Este proyecto implementa un **Algoritmo Genético (AG)** para resolver el **Problema del Viajante (Traveling Salesman Problem - TSP)**, es uno de los problemas más destacados y estudiados en el campo de la optimización combinatoria.
